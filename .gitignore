@@ -1,0 +1,10 @@
+*~
+.DS_Store
+QRScanTestApp.Android/obj/Debug/android/bin
+QRScanTestApp.Android/obj/Debug
+QRScanTestApp.Android/obj
+QRScanTestApp.iOS/bin
+QRScanTestApp.iOS/obj
+QRScanTestApp/bin
+QRScanTestApp/obj
+QRScanTestApp.Android/bin
