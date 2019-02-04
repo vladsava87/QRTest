@@ -8,3 +8,5 @@ QRScanTestApp.iOS/obj
 QRScanTestApp/bin
 QRScanTestApp/obj
 QRScanTestApp.Android/bin
+QRScanTestApp.WinPhone/bin/
+QRScanTestApp.WinPhone/obj/
